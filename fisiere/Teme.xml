@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <inbox>
     <nrTema nrTema="1">
-        <descriere>file repository</descriere>
+        <descriere>file ssvv.example.repository</descriere>
         <deadline>2</deadline>
         <primire>1</primire>
     </nrTema>
@@ -11,12 +11,12 @@
         <primire>2</primire>
     </nrTema>
     <nrTema nrTema="3">
-        <descriere>abstract repository</descriere>
+        <descriere>abstract ssvv.example.repository</descriere>
         <deadline>4</deadline>
         <primire>3</primire>
     </nrTema>
     <nrTema nrTema="4">
-        <descriere>service+consola</descriere>
+        <descriere>ssvv.example.service+consola</descriere>
         <deadline>6</deadline>
         <primire>5</primire>
     </nrTema>

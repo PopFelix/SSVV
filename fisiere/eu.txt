@@ -3,7 +3,7 @@ Tema: 5
 Nota: 3.5
 Predata in saptamana: 8
 Deadline: 7
-Feedback: repository
+Feedback: ssvv.example.repository
 
 Tema: 4
 Nota: 5.5
