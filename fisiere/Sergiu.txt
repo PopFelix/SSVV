@@ -1,0 +1,24 @@
+
+Tema: tema1
+Nota: 3.0
+Predata in saptamana: 5
+Deadline: 7
+Feedback: ok
+
+Tema: tema1
+Nota: 3.0
+Predata in saptamana: 5
+Deadline: 7
+Feedback: ok
+
+Tema: tema1
+Nota: 3.0
+Predata in saptamana: 5
+Deadline: 7
+Feedback: ok
+
+Tema: tema1
+Nota: 3.0
+Predata in saptamana: 5
+Deadline: 7
+Feedback: ok
